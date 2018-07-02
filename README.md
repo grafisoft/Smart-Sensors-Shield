@@ -3,6 +3,9 @@ Smart Sensors Shield for ESP8266 IoT Board
 
 ![Banner](https://github.com/grafisoft/Smart-Sensors-Shield/blob/master/SensorsShield.png)
 
+![Banner](https://i.imgur.com/NIkBixzl.jpg)
+
+
 Work in progress!!
 
   This shield can individually power control for any connector. All bus lines are isolated and individually controlled. You can use it with project board: https://github.com/grafisoft/SpainLabsIoT2018
